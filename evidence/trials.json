@@ -1,0 +1,97 @@
+{
+  "description": "Selected creator-supplied screenshots, not independent model runs or a measured solve rate.",
+  "trial_date": "2026-10-17",
+  "model_reported": "GPT-6.1 Sol",
+  "effort_reported": "light",
+  "settings_independently_verified": false,
+  "is_benchmark": false,
+  "original_challenge_bytes_available": false,
+  "source": "Supplied by the creator in the project conversation; originals/answers confirmed by creator. Hashes identify screenshots only.",
+  "trials": [
+    {
+      "id": "01",
+      "method": "stripes",
+      "original": "I love AI",
+      "reply": "I break AI",
+      "outcome": "wrong",
+      "assistance": "General hidden-pattern clue",
+      "screenshot": "dist/lab-assets/trial-stripes-love-first.png",
+      "sha256": "f3c2e3acdad3836fa5e6977c7fa6e20d9b069adc54cce03e698538f4c2add636"
+    },
+    {
+      "id": "02",
+      "method": "stripes",
+      "original": "I love AI",
+      "reply": "I love AI",
+      "outcome": "correct",
+      "assistance": "Stripe-specific follow-up hint",
+      "follow_up_to": "01",
+      "screenshot": "dist/lab-assets/trial-stripes-love-hint.png",
+      "sha256": "82f1a9d6d322274f130857135188f0cfc7774c3ff869baf377535a58901a74e2"
+    },
+    {
+      "id": "03",
+      "method": "stripes",
+      "original": "3O23EH",
+      "reply": "38AG58EH",
+      "outcome": "wrong",
+      "assistance": "Hidden-text question",
+      "screenshot": "dist/lab-assets/trial-stripes-code.png",
+      "sha256": "ac40d7eb1070ba91d153ebeadd60b5d190afa5966ce02cac07f281ac4602cc2c"
+    },
+    {
+      "id": "04",
+      "method": "stripes",
+      "original": "dr bent",
+      "reply": "dr toast",
+      "outcome": "wrong",
+      "assistance": "General hidden-pattern clue",
+      "screenshot": "dist/lab-assets/trial-stripes-bent.png",
+      "sha256": "0c4974e691c071a753930f41f6aff0cc89dba521bc0b866165b9b26ac7dfb094"
+    },
+    {
+      "id": "05",
+      "method": "stripes",
+      "original": "hi",
+      "reply": "hi",
+      "outcome": "correct",
+      "assistance": "Hidden-pattern question",
+      "screenshot": "dist/lab-assets/trial-stripes-hi.png",
+      "sha256": "2d6291def747266517b94ae62b4f4cb7f02570fa541c2ac2893ad570d0b4c77a"
+    },
+    {
+      "id": "06",
+      "method": "motion-still",
+      "original": "hi",
+      "reply": "I can’t reliably make out any text in this pattern. I’d be guessing if I gave you a word.",
+      "outcome": "unreadable-still-only",
+      "full_animation_access": false,
+      "screenshot": "dist/lab-assets/trial-motion-still.png",
+      "sha256": "4e62c1fe1f4d2def3d6f5b7399ca6b8a0a0d068fee5afc076784f5f3e129e9ab"
+    },
+    {
+      "id": "07",
+      "method": "dots",
+      "original": "hi",
+      "reply": "hi",
+      "outcome": "correct",
+      "screenshot": "dist/lab-assets/trial-dots-hi.png",
+      "sha256": "a03516eba04591f2d4040e2be02600960606bc1635a9dacb529900f1a504342c"
+    },
+    {
+      "id": "08",
+      "method": "links",
+      "original": {
+        "Quartz": "KEY-89529",
+        "Willow": "KEY-84788",
+        "Birch": "KEY-50146",
+        "Cedar": "KEY-50546",
+        "Maple": "KEY-77055"
+      },
+      "reply": "Five matches returned; creator confirmed correct.",
+      "outcome": "creator-confirmed-correct",
+      "screenshot": "dist/lab-assets/trial-links.png",
+      "sha256": "3182a76247880094f2b13b8fa8deab7eb523771d32ae524e1d146a0b6060587b"
+    }
+  ]
+}
