@@ -4,7 +4,7 @@
 
 A visual-perception playground exploring whether people can read patterns that AI misreads. Create striped lettering, moving-dot text, colored dots, or a word-to-code puzzle; then try the result with an AI of your choice.
 
-**[Open the live playground](https://ant-ai-perception-lab.icy-vine-1626.chatgpt.site)** · [Try an experiment](docs/TRY_IT.md) · [See the findings](docs/FINDINGS.md) · [Research & credits](docs/REFERENCES.md)
+**[Open the live playground](https://snehal-jindal.github.io/xai-project1-ant.ai/)** · [Try an experiment](docs/TRY_IT.md) · [See the findings](docs/FINDINGS.md) · [Research & credits](docs/REFERENCES.md)
 
 ![ant.ai dark-theme website](docs/preview.jpg)
 

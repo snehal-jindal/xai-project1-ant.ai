@@ -4,7 +4,7 @@
 
 ## Make a challenge
 
-Open the [live website](https://ant-ai-perception-lab.icy-vine-1626.chatgpt.site). Select **Striped text** first. Use your own short message or a random code. Click **Generate a fresh challenge**.
+Open the [live website](https://snehal-jindal.github.io/xai-project1-ant.ai/). Select **Striped text** first. Use your own short message or a random code. Click **Generate a fresh challenge**.
 
 Try reading it at ordinary size before showing the answer. If it is difficult for you too, that is an important limitation—not a successful human-friendly defense.
 
